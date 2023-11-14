@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Kenia-Regular";
+  src: local("Kenia-Regular"), url("./fonts/Kenia-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Kenia-Regular", sans-serif;
+}
